@@ -1,1 +1,0 @@
-{"__symbolic":"module","version":4,"metadata":{"IBaseEntity":{"__symbolic":"interface"}},"origins":{"IBaseEntity":"./lib/interfaces/base-entity.interface"},"importAs":"@polpware/ngx-model"}
