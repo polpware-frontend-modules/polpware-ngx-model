@@ -1,0 +1,5 @@
+/*
+ * Public API Surface of ngx-model
+ */
+export * from './lib/interfaces/base-entity.interface';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHVibGljX2FwaS5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uLy4uL3Byb2plY3RzL3BvbHB3YXJlL25neC1tb2RlbC9zcmMvcHVibGljX2FwaS50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTs7R0FFRztBQUVILGNBQWMsd0NBQXdDLENBQUMiLCJzb3VyY2VzQ29udGVudCI6WyIvKlxuICogUHVibGljIEFQSSBTdXJmYWNlIG9mIG5neC1tb2RlbFxuICovXG5cbmV4cG9ydCAqIGZyb20gJy4vbGliL2ludGVyZmFjZXMvYmFzZS1lbnRpdHkuaW50ZXJmYWNlJztcbiJdfQ==
